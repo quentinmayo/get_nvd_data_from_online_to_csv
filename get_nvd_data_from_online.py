@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Quick Script to covert NVD information to CVE records
+# Quick Script to convert NVD information to CVE records
 # Removed the need to store xml and zip files on the disk 
 
 # In[90]:
